@@ -1,4 +1,4 @@
-(defproject melee "0.1.0-SNAPSHOT"
+(defproject org.clojars.scij/melee "0.2.0-SNAPSHOT"
   :description "Distributed coordinator"
   :url "https://github.com/scij/melee"
   :license {:name "Eclipse Public License"
