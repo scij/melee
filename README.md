@@ -3,7 +3,7 @@
 
 Melee provides distributed system primitives. It is not a database or a messaging queue, but these could be built using Melee.
 This code is a fork for Fredrick Galoso's work which can be found [on Github](https://github.com/fredrick/melee).
-I logging from the original code and updated the runtime dependencies.
+I removed journaling from the original code and updated the runtime dependencies.
 
 Primary features and goals:
 
